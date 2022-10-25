@@ -14,3 +14,5 @@ Skins personalizadas
 Tradução completa para o português (BR)
 Mapas versão "Source" e "Global Offensive"
 Bots com vários níveis de dificuldade
+
+Twitter Oficial: https://twitter.com/cspro__
