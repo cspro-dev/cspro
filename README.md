@@ -15,4 +15,4 @@ Modificação para Counter-Strike 1.6 criada em 2012 dedicado aos sistemas MacOS
 - Mapas versão "Source" e "Global Offensive"
 - Bots com vários níveis de dificuldade
 
-Twitter Oficial: https://twitter.com/cspro__
+Twitter Oficial: twitter.com/cspro__
