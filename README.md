@@ -1,5 +1,5 @@
 # Projeto Counter-Strike (CS:Pro)
-Modificação para Counter-Strike 1.6 criada em 2012 dedicado aos sistemas MacOS (CSA = Counter-Strike for Apple) idealizado por DAFTPunk (AKA he4vy) (moderador do legado fórum CSOnline.net) - Agora com nova atualização em 2022 em comemoração aos 10 anos de CS:GO
+Modificação para Counter-Strike 1.6 criada em 2012 dedicado aos sistemas MacOS (CSA = Counter-Strike for Apple) idealizado por DAFTPunk (AKA he4vy) (moderador do legado fórum CSOnlinebr.net) - Agora com nova atualização em 2022 em comemoração aos 10 anos de CS:GO
 
 # Recursos
 - Texturas em alta definição
